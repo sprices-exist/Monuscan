@@ -1,4 +1,4 @@
-# monuscan
+# MonuScan
 
 A new Flutter project.
 
